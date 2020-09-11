@@ -889,7 +889,7 @@ label{
 /*==== 4.4 banner area ===*/
 .banner-area {
   position: relative;
-  background: url(../image/banner1.jpg) no-repeat scroll center 0;
+  background: url(https://images.unsplash.com/photo-1568992687947-868a62a9f521?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&h=474&q=80) no-repeat scroll center 0;
   background-size: cover;
   z-index: 1;
   padding: 197px 0px 109px;
@@ -924,7 +924,7 @@ label{
 }
 
 .banner {
-  background: url(../image/banner2.jpg) no-repeat scroll center 0;
+  background: url(https://images.unsplash.com/photo-1555421689-491a97ff2040?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80) no-repeat scroll center 0;
   background-size: cover;
 }
 
