@@ -696,11 +696,12 @@ label{
     margin: 0 auto;
     z-index: 9999;
     padding: 10px 0px;
-    background: black;
+    background: darkcyan;
+    height: 115px;
 }
 .header-area .logo {
   display: inline-block;
-  padding: 41px 0px 20px;
+  padding: 32px 0px 0px;
 }
 .header-area .main-menu nav ul {
   width: 100%;
@@ -1062,7 +1063,7 @@ label{
 .about-area .about-content .about-img .content h3:after {
   content: "\7b";
   font-family: 'ElegantIcons';
-  speak: none;
+  /* speak: none; */
   font-style: normal;
   font-size: 172px;
   position: absolute;
@@ -1661,8 +1662,8 @@ label{
   font-size: 16px;
 }
 .blog-area .blog-section .blog-inner .blog-social-icon {
+  /* float: right; */
   display: inline-block;
-  float: right;
 }
 .blog-area .blog-section .blog-inner .blog-social-icon li {
   display: inline-block;
@@ -1746,7 +1747,7 @@ label{
 /*====================================================*/
 /*===== 4.19 contact area css =====*/
 .contact-area {
-  background: url("../image/contacts-bg.jpg") no-repeat scroll center 0;
+  background: url("https://images.unsplash.com/uploads/141103282695035fa1380/95cdfeef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1574&q=80") no-repeat scroll center 0;
   background-size: cover;
   padding-top: 198px;
   padding-bottom: 120px;
