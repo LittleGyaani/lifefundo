@@ -1,10 +1,10 @@
 <?php
 
-    $to = "youmailaddress@mailprovider.com";
+    $to = "support@lifefundo.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $headers = "From: $from";
-    $subject = "You have a message from your Digital Agency HTML template.";
+    $subject = "You have a message from your LifeFundo Contact Form.";
 
     $fields = array();
     $fields{"name"} = "name";

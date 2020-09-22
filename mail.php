@@ -5,7 +5,7 @@ $phone = $_POST["phone"];
 $message = $_POST["message"];
 
 
-$EmailTo = "000.lunchbox@gmail.com";
+$EmailTo = "support@lifefundo.com";
 $Subject = "New Message Received";
 
 // prepare email body text
