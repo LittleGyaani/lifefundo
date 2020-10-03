@@ -2037,9 +2037,9 @@ label{
 /*====================================================*/
 
 .trans{
-  position: relative;
-  top: -10px;
-  left: 163px;
+  position: absolute;
+  top: 80px;
+  left: 120px;
   flex: 3;
   vertical-align: middle;
 }
