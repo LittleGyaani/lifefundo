@@ -184,7 +184,7 @@ function initialize() {
     marker = new google.maps.Marker({
         map: map,
         draggable: true,
-        title: 'Metropol', //change title here
+        title: 'Lifefundo', //change title here
         animation: google.maps.Animation.DROP,
         position: mapLocation
     });
